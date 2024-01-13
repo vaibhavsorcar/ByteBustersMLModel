@@ -1,3 +1,6 @@
+# Code to accept a pdf file , read the contents and produce back a pdf file.
+# This method is used language translation , so as to read the content from english and translate to the language of our need.
+
 import fitz  # PyMuPDF
 from fpdf import FPDF
 
