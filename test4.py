@@ -1,3 +1,5 @@
+    # This script is tailored for English-to-Hindi translation using a specific pre-trained model.
+    # Adjust parameters and paths according to your specific use case.    
     import tensorflow as tf
     from tensorflow.keras.preprocessing.text import Tokenizer
     from tensorflow.keras.preprocessing.sequence import pad_sequences
